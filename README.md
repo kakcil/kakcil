@@ -45,6 +45,13 @@ A passionate and innovative senior software engineer specializing in web and app
 [![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?logo=dassaultsystemes&logoColor=white)](https://www.solidworks.com/)
 [![CATIA](https://img.shields.io/badge/CATIA-002570?logo=dassaultsystemes&logoColor=white)](https://www.3ds.com/products-services/catia/)
 
+### 💼 Experienced Sectors
+- **Hospitality & Tourism:** Experience in developing software solutions for hotels and tourism-related businesses. <img src="https://edge.otelz.com/app/icons/logo.svg" height="20" alt="Otelz" >
+- **Finance & Investment:** Worked on projects within the financial sector, including tax software and factoring.<img src="https://www.terayatirim.com/dosyalar/site/logo.svg" height="20" alt="Tera Yatırım" > 
+- **Cryptocurrency Exchange:** Involved in developing and managing applications for cryptocurrency trading platforms.<img src="https://kointra.com/img/logo-dark.svg" height="20" alt="Kointra" >
+- **Healthcare:** Experience in creating software solutions for the healthcare sector.<img src="https://btm.istanbul/storage/uploads/news/1776/conversions/DOC.LOGO-large.jpg" height="30" alt="Doctorla" >
+- **Online Betting:** Developed applications for virtual betting platforms.
+- **Pet Care:** Worked on projects related to cat and dog sitting services. 
 
 ### 💡 What I Do
 - **Web Development:** Building responsive and dynamic web applications.
