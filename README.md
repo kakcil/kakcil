@@ -1,8 +1,6 @@
 # Hi there, I'm Kemal AKCIL! 👋
 
-![Profile Banner](https://media.licdn.com/dms/image/C4D16AQGUe-KCKFpb1A/profile-displaybackgroundimage-shrink_350_1400/0/1632314812386?e=1721260800&v=beta&t=Rq5ZhhsSxPorYU-41Dm5hnqspkCF_SWLyaO-yltVLnA)
-
-### 💼 Senior Software Engineer at Sovos
+### 💼 Senior Software Engineer
 Istanbul, Türkiye
 
 ---
