@@ -6,7 +6,8 @@ Istanbul, Türkiye
 ---
 
 ### 🚀 About Me
-A passionate and innovative senior software engineer specializing in web and application development. I thrive on creating solutions that leverage the latest technologies. Unfortunately, I lost access to my old GitHub account and had to start fresh, but I'm excited to rebuild and share my projects with the community.
+A passionate and innovative senior software engineer specializing in web and application development. I currently work at OBSS Tech as part of the Navlungo team, building scalable logistics and shipping solutions. I thrive on creating systems that leverage the latest technologies to solve real-world business problems.
+Unfortunately, I lost access to my old GitHub account and had to start fresh, but I'm excited to rebuild and share my projects with the community.
 
 ### 🛠️ Technologies & Tools
 
@@ -44,22 +45,17 @@ A passionate and innovative senior software engineer specializing in web and app
 [![CATIA](https://img.shields.io/badge/CATIA-002570?logo=dassaultsystemes&logoColor=white)](https://www.3ds.com/products-services/catia/)
 
 ### 💼 Experienced Sectors
+- **Logistics & Shipping:** Developing international shipping, quoting, and fulfillment systems at Navlungo (OBSS Tech). <img src="https://obss.tech/wp-content/themes/obss/assets/images/svg/OBSS_20yil_Logo_new.png" height="20" alt="OBSS Tech" > <img src="https://navlungo.com/_next/image?url=%2Fstatic%2Fimages%2Flogo.png&w=384&q=75" height="20" alt="Navlungo" >
 - **Hospitality & Tourism:** Experience in developing software solutions for hotels and tourism-related businesses. <img src="https://edge.otelz.com/app/icons/logo.svg" height="20" alt="Otelz" >
 - **Finance & Investment:** Worked on projects within the financial sector, including tax software and factoring.<img src="https://www.terayatirim.com/dosyalar/site/logo.svg" height="20" alt="Tera Yatırım" > 
 - **Cryptocurrency Exchange:** Involved in developing and managing applications for cryptocurrency trading platforms.<img src="https://kointra.com/img/logo-dark.svg" height="20" alt="Kointra" >
-- **Healthcare:** Experience in creating software solutions for the healthcare sector.<img src="https://btm.istanbul/storage/uploads/news/1776/conversions/DOC.LOGO-large.jpg" height="30" alt="Doctorla" >
-- **Online Betting:** Developed applications for virtual betting platforms.
+- **Healthcare:** Experience in creating software solutions for the healthcare sector (Doctorla).
 - **Pet Care:** Worked on projects related to cat and dog sitting services. 
 
 ### 💡 What I Do
 - **Web Development:** Building responsive and dynamic web applications.
 - **Application Development:** Creating scalable and efficient software solutions.
 - **Custom Software Development:** Tailoring software to meet specific needs.
-
-### 🌱 Currently Learning
-- Advanced ASP.NET techniques
-- Cutting-edge features in React and Vue
-- Training on defense against web security threats and attacks
 
 ### 📈 Stats & Badges
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kakcil&show_icons=true&theme=radical)
